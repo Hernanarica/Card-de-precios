@@ -1,0 +1,20 @@
+.btn {
+   inline-size: 100%;
+   padding-inline: 2rem;
+   padding-block: 0.75rem;
+   border-radius: 5.625rem;
+   border: none;
+   font: var(--body1-bold);
+   cursor: pointer;
+   /*outline: none;*/
+}
+
+.btn--primary {
+   background-color: var(--black);
+   color: var(--white);
+}
+
+.btn--secondary {
+   color: var(--primary);
+   background: rgba(255, 142, 60, 0.1);
+}

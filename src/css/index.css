@@ -1,0 +1,9 @@
+/* Bootstrap files */
+@import "bootstrapping/bootstrapping.css";
+
+/* Sections files */
+@import "./sections/plans.css";
+
+/* Components files */
+@import "./components/button.css";
+@import "./components/card.css";

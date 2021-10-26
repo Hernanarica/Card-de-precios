@@ -1,0 +1,8 @@
+@import "./normalize.css";
+@import "./fonts.css";
+@import "./icons.css";
+@import "./variables.css";
+
+html {
+   background-color: var(--bg);
+}
